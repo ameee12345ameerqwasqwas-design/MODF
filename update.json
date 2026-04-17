@@ -1,14 +1,23 @@
 {
   "versionCode": 400,
   "downloadUrl": "https://github.com/ameee12345ameerqwasqwas-design/MODF/raw/refs/heads/main/app.apk",
+  "updateMessage": "تم إطلاق تحديث جديد! حمل النسخة الأخيرة حتى تتجنب الباند وتستمتع بالمميزات الجديدة.",
   "messages": [
     {
-      "title": "Welcome Online",
-      "content": "This message is coming from the server!"
+      "title": "يا هلا بيك نورتنا 🌷",
+      "content": "أهلاً بيك بمود LIVAI LOADER. هاي الرسالة جايتك مباشرة من السيرفر، يعني إنت هسة متصل ويانا أونلاين!"
     },
     {
-      "title": "Maintenance Update",
-      "content": "Servers will be down for 2 hours."
+      "title": "تنبيه صيانة مؤقتة 🛠️",
+      "content": "حبيبي المستخدم، راح نسوي صيانة سريعة للسيرفرات لمدة ساعتين حتى نحسن الأداء. اصبرلنا شوية وراجعين أقوى."
+    },
+    {
+      "title": "نصيحة للعب الآمن ✅",
+      "content": "حتى حسابك يضل بالسليم، حاول تلعب بشكل طبيعي ولا تتهور كدام اللاعبين. حمايتكم هي أولويتنا."
+    },
+    {
+      "title": "آخر التحديثات 🚀",
+      "content": "تم إضافة ملفات حماية جديدة وتحديث نظام الـ ESP ليدعم آخر إصدار من اللعبة بدون مشاكل."
     }
   ]
 }
