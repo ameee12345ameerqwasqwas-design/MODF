@@ -1,7 +1,14 @@
+{
+  "versionCode": 400,
+  "downloadUrl": "https://github.com/ameee12345ameerqwasqwas-design/MODF/raw/refs/heads/main/app.apk",
+  "messages": [
     {
-      "versionCode": 400,
-      "downloadUrl": "https://github.com/ameee12345ameerqwasqwas-design/MODF/raw/refs/heads/main/app.apk",
-      "supportUrl": "https://t.me/LPD_u",
-      "updateMessage": "تم إضافة حماية VIP جديدة وإصلاح جميع المشاكل السابقة."
+      "title": "Welcome Online",
+      "content": "This message is coming from the server!"
+    },
+    {
+      "title": "Maintenance Update",
+      "content": "Servers will be down for 2 hours."
     }
-    
+  ]
+}
